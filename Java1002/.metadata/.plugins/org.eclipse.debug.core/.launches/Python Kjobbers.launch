@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.genuitec.eclipse.code.debug.python.codeMixLaunchConfigurationType">
+    <stringAttribute key="launchJsonContents" value="none"/>
+    <stringAttribute key="launchJsonPath" value="/Users/ericel123/Documents/dev/django/kjobbers/.vscode/launch.json"/>
+    <stringAttribute key="name" value="Python : Kjobbers"/>
+</launchConfiguration>

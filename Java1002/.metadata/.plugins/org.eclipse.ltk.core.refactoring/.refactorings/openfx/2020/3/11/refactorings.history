@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;MouseWhisperer.java&apos; to &apos;unit_2/unit_2&apos;&#x0A;- Original project: &apos;openfx&apos;&#x0A;- Destination element: &apos;unit_2/unit_2&apos;&#x0A;- Original element: &apos;application.MouseWhisperer.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=unit_2/&lt;unit_2" element1="/src&lt;application{MouseWhisperer.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1583891760375" units="1" version="1.0"/>
+</session>

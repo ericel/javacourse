@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.dartboard.launch">
+    <stringAttribute key="main_class" value="main.dart"/>
+    <stringAttribute key="sdk_location" value=""/>
+    <stringAttribute key="selected_project" value="testflutter"/>
+</launchConfiguration>
